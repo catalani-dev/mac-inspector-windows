@@ -1,0 +1,6 @@
+# Text files are stored with LF line endings
+* text=auto eol=lf
+# The batch launcher keeps its Windows line endings byte for byte: cmd.exe misreads LF-only scripts
+*.cmd -text
+*.png binary
+*.ico binary

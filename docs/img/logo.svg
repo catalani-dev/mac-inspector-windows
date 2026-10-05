@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img">
+  <!-- SPDX-FileCopyrightText: 2026 CatalaniDev <catalanidev@gmail.com> -->
+  <!-- SPDX-License-Identifier: LicenseRef-MAC-Inspector-1.0 -->  <!-- MAC Inspector logo: a magnifying glass over the three octets of a MAC
+       address that identify the vendor (the OUI prefix). -->
+  <title>MAC Inspector</title>
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="#2F6FDF"/>
+  <path d="M78 78l24 24" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="54" cy="54" r="32" fill="#1D2127" stroke="#FFFFFF" stroke-width="9"/>
+  <g fill="#FFFFFF">
+    <rect x="35" y="43" width="9" height="22" rx="2.5"/>
+    <rect x="49.5" y="43" width="9" height="22" rx="2.5"/>
+    <rect x="64" y="43" width="9" height="22" rx="2.5"/>
+  </g>
+</svg>

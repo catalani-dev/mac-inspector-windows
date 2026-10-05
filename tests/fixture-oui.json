@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "generated": "2026-01-01T00:00:00Z"
+  },
+  "L": {
+    "00000C": "Cisco Systems, Inc",
+    "001C0E": "Cisco Systems, Inc",
+    "70B3D5": "IEEE Registration Authority",
+    "00005E": "ICANN, IANA Department",
+    "B827EB": "Raspberry Pi Foundation",
+    "0180C2": "IEEE 802.1 Chair"
+  },
+  "M": {
+    "70B3D51": "Vendor MA-M"
+  },
+  "S": {
+    "70B3D5123": "Vendor MA-S"
+  },
+  "CID": {
+    "0A1B2C": "Azienda CID",
+    "DAA119": "Google, Inc."
+  }
+}

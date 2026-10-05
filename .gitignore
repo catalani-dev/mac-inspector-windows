@@ -1,0 +1,8 @@
+# Release packages built locally
+*.zip
+
+# Operating system and editors
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

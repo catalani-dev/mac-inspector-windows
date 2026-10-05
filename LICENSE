@@ -1,0 +1,166 @@
+MAC Inspector License, version 1.0
+SPDX identifier: LicenseRef-MAC-Inspector-1.0
+
+Copyright (c) 2026 CatalaniDev <catalanidev@gmail.com>
+All rights reserved, except as expressly granted in this license.
+
+The source code of MAC Inspector is published so that it can be read,
+reviewed and reused under the conditions below. Publication does not place
+the Software in the public domain and this is not an open source license.
+
+
+1. DEFINITIONS
+
+   "Software" means MAC Inspector, including its source code, user interface,
+   texts, icons, images and documentation, in the form made available by the
+   Author. It does not include the Third-Party Material described in section 6.
+
+   "Author" means CatalaniDev, the copyright holder.
+
+   "You" means any person or legal entity exercising rights under this license.
+
+   "Larger Work" means a software product, tool or service made by You that
+   includes the Software, in whole or in part, modified or unmodified, and that
+   provides substantial functionality of its own beyond the Software.
+
+   "Commercial Larger Work" means a Larger Work that is, or is part of,
+   anything sold, licensed or offered for a fee or other compensation,
+   including paid licenses, subscriptions, paid tiers or plans, paid hosted or
+   online services, products or services it is bundled with, and anything
+   that generates revenue through advertising. A Larger Work that is only used
+   inside Your own organisation and is not offered to others is not a
+   Commercial Larger Work.
+
+
+2. PERMISSIONS
+
+   Subject to the conditions of this license, the Author grants You a
+   worldwide, royalty-free, non-exclusive, non-transferable license to:
+
+   a) read and study the source code of the Software;
+
+   b) install and use the Software, unmodified, for personal purposes or
+      within Your organisation, including for business purposes;
+
+   c) modify the Software for Your own personal or internal use;
+
+   d) include the Software, in whole or in part, modified or unmodified, in a
+      Larger Work that is not a Commercial Larger Work, and use, copy and
+      distribute that Larger Work free of charge, provided that You comply
+      with section 3.
+
+   Including the Software in a Commercial Larger Work is not permitted by
+   this license and requires the prior written permission of the Author (see
+   section 5). The Author may grant or refuse that permission and may set its
+   own conditions.
+
+
+3. ATTRIBUTION CONDITIONS FOR LARGER WORKS
+
+   If You include any part of the Software in a Larger Work, including a
+   Commercial Larger Work authorised by the Author, You must, unless the
+   written permission states otherwise:
+
+   a) keep, in every source file taken from the Software, the existing
+      copyright notice and license identifier, for example:
+          SPDX-FileCopyrightText: 2026 CatalaniDev <catalanidev@gmail.com>
+          SPDX-License-Identifier: LicenseRef-MAC-Inspector-1.0
+
+   b) include a copy of this license with the Larger Work, or a link to it;
+
+   c) give visible credit in the documentation of the Larger Work and, where
+      the Larger Work has one, in its "About", "Credits" or third-party
+      licenses section, using this text or an equivalent one:
+          Includes MAC Inspector, Copyright (c) 2026 CatalaniDev,
+          used under the MAC Inspector License 1.0.
+
+   d) state clearly that the included code has been modified, if You modified
+      it;
+
+   e) not use the names "MAC Inspector" or "CatalaniDev" as the name of the
+      Larger Work, and not use them to suggest that the Author endorses,
+      sponsors or is affiliated with the Larger Work, without prior written
+      permission;
+
+   f) if the Larger Work includes any part of the user interface of the
+      Software, such as the popup, the side panel or the About page, keep the
+      copyright line ("© 2026 CatalaniDev") and its link to the license and
+      credits visible and unaltered in that interface.
+
+   The Larger Work as a whole may be distributed under a license of Your
+   choice, but the parts taken from the Software remain subject to this
+   license, and this attribution requirement may not be removed. Anyone who
+   receives a Larger Work is bound by this license for those parts, including
+   the restriction on Commercial Larger Works.
+
+
+4. RESTRICTIONS
+
+   Unless the Author gives prior written permission, You may not:
+
+   a) redistribute, republish or make available the Software on its own,
+      whether modified or unmodified, including under a different name;
+
+   b) publish the Software, or a work whose main purpose is to replicate the
+      Software, on the Chrome Web Store or any other extension store or
+      distribution channel;
+
+   c) sell, rent, lease or sublicense the Software on its own;
+
+   d) include the Software, in whole or in part, modified or unmodified, in a
+      Commercial Larger Work;
+
+   e) remove, alter or obscure any copyright, authorship or license notice;
+
+   f) present the Software, or any part of it, as Your own work.
+
+
+5. REQUESTS FOR PERMISSION
+
+   Uses not covered by this license require prior written permission from the
+   Author. Requests can be sent to catalanidev@gmail.com.
+
+
+6. THIRD-PARTY MATERIAL
+
+   The registry data in oui-data.json is derived from the public listings of
+   the IEEE Registration Authority. That data, the organisation names it
+   contains and all trademarks mentioned by the Software belong to their
+   respective owners and are not licensed by the Author under this license.
+   See NOTICE.md.
+
+
+7. TERMINATION
+
+   Your rights under this license end automatically if You fail to comply
+   with any of its terms. They are reinstated if You cure the breach within
+   30 days of becoming aware of it. Copies of a Larger Work already
+   distributed in compliance with this license before termination are not
+   affected.
+
+
+8. DISCLAIMER OF WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. Vendor information
+   comes from public registries and may be incomplete, out of date, or not
+   match the actual device, for example when a MAC address is randomised or
+   has been changed.
+
+
+9. LIMITATION OF LIABILITY
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+
+10. GENERAL
+
+   Nothing in this license limits rights that cannot be excluded or limited
+   under applicable law. If any provision is held unenforceable, the remaining
+   provisions stay in effect. Any right not expressly granted in this license
+   is reserved by the Author.
